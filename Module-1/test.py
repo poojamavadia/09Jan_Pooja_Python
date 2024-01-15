@@ -1,4 +1,7 @@
-print("hello")
-a=56
-b=41
-print(a+b)
+ID=int(input("Enter Your ID"))
+Name=input("Enter your name:")
+Subject=input("Enter Subject:")
+
+print(ID)
+print(Name)
+print(Subject)
